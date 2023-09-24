@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-using-ML
 
-This is my B.tech minor project. This is a group project 😀😀😀.
+This is my B.tech major project. This is a group project 😀😀😀.
 It aims to predict heart disease by taking medical measurements.
 
 ## pre-requirements
